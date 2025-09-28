@@ -1,0 +1,7 @@
+<?php declare(strict_types = 1);
+
+// variadic-method-GrimReapper\MsGraph\Services\OneDriveService-buildItemPath-D:\laragon\www\msgraph\src\Services\OneDriveService.php
+return \PHPStan\Cache\CacheItem::__set_state(array(
+   'variableKey' => '1759062242-v4',
+   'data' => false,
+));

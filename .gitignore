@@ -1,0 +1,63 @@
+# Dependencies
+/vendor/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Cache
+/cache/
+/tmp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Composer
+composer.phar
+
+# PHPUnit
+/phpunit.xml
+.phpunit.result.cache
+
+# PHPStan
+/phpstan.neon
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+/build/
+/dist/
+
+# Node modules (if any)
+node_modules/
+
+# Coverage reports
+/coverage/
+
+# Development files not needed for release
+replace_namespace_targeted.bat
+replace_namespace.bat
+TODO.md
+example.php
+.phpunit.cache
